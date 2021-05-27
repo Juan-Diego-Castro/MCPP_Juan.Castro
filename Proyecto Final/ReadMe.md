@@ -3,7 +3,7 @@
 #### 29-05-2020
 #### Juan Diego Castro Rodríguez
 
-![NA5RR5ImnVG49QqY_QZqZQeMMzmFtCQ1CR9wvUWbrn0.png](attachment:NA5RR5ImnVG49QqY_QZqZQeMMzmFtCQ1CR9wvUWbrn0.png)
+![Genero.png](attachment:Genero.png)
 
 ## Descripción y Motivación
 En el contexto de la pandemia producto del Covid-19, los países del mundo se han visto en la obligación de aislar a sus ciudadanos para evitar el aumento de la cadena de contagios.  Distintas estrategias han sido utilizadas hasta la fecha con el fin de evadir las aglomeraciones masivas cambiando así del día a día de las personas.
