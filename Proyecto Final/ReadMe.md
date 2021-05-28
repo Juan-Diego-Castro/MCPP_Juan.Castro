@@ -3,7 +3,7 @@
 #### 29-05-2020
 #### Juan Diego Castro Rodríguez
 
-![Genero.png](attachment:Genero.png)
+![Genero.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Accidentes_Bogot%C3%A1_pos_tratamiento.png)
 
 ## Descripción y Motivación
 En el contexto de la pandemia producto del Covid-19, los países del mundo se han visto en la obligación de aislar a sus ciudadanos para evitar el aumento de la cadena de contagios.  Distintas estrategias han sido utilizadas hasta la fecha con el fin de evadir las aglomeraciones masivas cambiando así del día a día de las personas.
