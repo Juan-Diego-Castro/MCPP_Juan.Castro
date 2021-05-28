@@ -3,7 +3,7 @@
 #### 29-05-2020
 #### Juan Diego Castro Rodríguez
 
-![Genero.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Accidentes_Bogot%C3%A1_pos_tratamiento.png)
+![Genero.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Genero.png)
 
 ## Descripción y Motivación
 En el contexto de la pandemia producto del Covid-19, los países del mundo se han visto en la obligación de aislar a sus ciudadanos para evitar el aumento de la cadena de contagios.  Distintas estrategias han sido utilizadas hasta la fecha con el fin de evadir las aglomeraciones masivas cambiando así del día a día de las personas.
@@ -70,16 +70,16 @@ Jupyter Notebook con el código completo : [Aquí](./Pico_y_género.ipynb).
 
 -Las tendencias de Bogotá varían al compararlas con el comportamiento de los accidentes de tránsito en Medellín
 
-![Accidentes_Bogot%C3%A1_tratamiento.png](attachment:Accidentes_Bogot%C3%A1_tratamiento.png)
+![Accidentes_Bogot%C3%A1_tratamiento.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Accidentes_Bogot%C3%A1_tratamiento.png)
 
-![Accidentes_Medell%C3%ADn_tratamiento.png](attachment:Accidentes_Medell%C3%ADn_tratamiento.png)
+![Accidentes_Medell%C3%ADn_tratamiento.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Accidentes_Com_Medell%C3%ADn_t_tratamiento.png)
 
-![Accidentes_Loc_Bogot%C3%A1_tratamiento.png](attachment:Accidentes_Loc_Bogot%C3%A1_tratamiento.png)
+![Accidentes_Loc_Bogot%C3%A1_tratamiento.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Accidentes_Loc_Bogot%C3%A1_tratamiento.png)
 
-![Accidentes_Com_Medell%C3%ADn_t_tratamiento.png](attachment:Accidentes_Com_Medell%C3%ADn_t_tratamiento.png)
+![Accidentes_Com_Medell%C3%ADn_t_tratamiento.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Accidentes_Com_Medell%C3%ADn_t_tratamiento.png)
 
-![Evoluci%C3%B3n_accidentes_bogot%C3%A1.png](attachment:Evoluci%C3%B3n_accidentes_bogot%C3%A1.png)
+![Evoluci%C3%B3n_accidentes_bogot%C3%A1.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Evoluci%C3%B3n_accidentes_bogot%C3%A1.png)
 
-![Evoluci%C3%B3n_accidentes_Medell%C3%ADn.png](attachment:Evoluci%C3%B3n_accidentes_Medell%C3%ADn.png)
+![Evoluci%C3%B3n_accidentes_Medell%C3%ADn.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Evoluci%C3%B3n_accidentes_Medell%C3%ADn.png)
 
-![Mapa%20Accidentes%20con%20convenciones.png](attachment:Mapa%20Accidentes%20con%20convenciones.png)
+![Mapa%20Accidentes%20con%20convenciones.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Mapa%20Accidentes%20con%20convenciones.png)
