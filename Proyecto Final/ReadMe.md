@@ -72,7 +72,7 @@ Jupyter Notebook con el código completo : [Aquí](./Pico_y_género.ipynb).
 
 ![Accidentes_Bogot%C3%A1_tratamiento.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Accidentes_Bogot%C3%A1_tratamiento.png)
 
-![Accidentes_Medell%C3%ADn_tratamiento.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Accidentes_Com_Medell%C3%ADn_t_tratamiento.png)
+![Accidentes_Medell%C3%ADn_tratamiento.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Accidentes_Medell%C3%ADn_tratamiento.png)
 
 ![Accidentes_Loc_Bogot%C3%A1_tratamiento.png](https://github.com/Juan-Diego-Castro/MCPP_Juan.Castro/blob/master/Proyecto%20Final/Im%C3%A1genes/Accidentes_Loc_Bogot%C3%A1_tratamiento.png)
 
